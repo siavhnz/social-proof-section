@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Workflow
  - setting up workflow (Initialize git, setting up folders structure)
- - setting up CSS preflight (Adding css standetize, adding google fonts)
+ - setting up CSS preflight (Adding css normalize, adding google fonts)
 
 
 ### Built with
