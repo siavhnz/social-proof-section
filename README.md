@@ -61,7 +61,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) 
+- [Quotation marks character](https://unicode-table.com/en/sets/quotation-marks/) 
 
 ## Author
 
