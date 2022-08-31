@@ -39,8 +39,10 @@ Users should be able to:
 ## My process
 
 ### Workflow
- - setting up workflow (Initialize git, setting up folders structure)
- - setting up CSS preflight (Adding css normalize, adding google fonts)
+ - Setting up workflow (Initialize git, setting up folders structure)
+ - Setting up CSS preflight (Adding css normalize, adding google fonts)
+ - Creating HTML skeleton based on `./assets/design`
+ - Working on mobile design (375 x 1530 px)
 
 
 ### Built with
