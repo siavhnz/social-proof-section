@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution: [frontendmentor.io](https://your-solution-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/social-proof-section-rK4sG92zZk)
 
 - Live Site: [github.io](https://siavhnz.github.io/frontendmentor/12.social-proof-section/index.html)
 
