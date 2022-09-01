@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./assets/images/screenshot.JPG)
 
 ### Links
 
 - Solution: [frontendmentor.io](https://your-solution-url.com)
 
-- Live Site: [github.io](https://your-live-site-url.com)
+- Live Site: [github.io](https://siavhnz.github.io/frontendmentor/12.social-proof-section/index.html)
 
 ## My process
 
@@ -43,6 +43,9 @@ Users should be able to:
  - Setting up CSS preflight (Adding css normalize, adding google fonts)
  - Creating HTML skeleton based on `./assets/design`
  - Working on mobile design (375 x 1530 px)
+ - Working on desktop design (1440 x 800 px)
+ - Writting README.md
+ - Publish on github.io | github.com | frontendmentor.io
 
 
 ### Built with
@@ -55,9 +58,12 @@ Users should be able to:
 
 ### What I learned
 
+I Learned when to use `margin-bottom: auto`. It's a better solution for alignment children of
+an element instead of using `align-self` in this challenge on quotes section.
 
 ### Continued development
 
+Reading and Practicing more on box alignment in CSS
 
 ### Useful resources
 
@@ -70,4 +76,9 @@ Users should be able to:
 ## Acknowledgments
 
 Thanks To
+
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+
+[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension
+
 
